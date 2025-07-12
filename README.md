@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kang-yang-huang-1a47851a4/)
 [![Personal Page](https://img.shields.io/badge/Personal_Page-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alberthkyhky.github.io/)
 [![ReCorD (ACM 2024)](https://img.shields.io/badge/ReCorD%20(ACM%202024)-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alberthkyhky.github.io/ReCorD/)
-[![InstructFLIP (ACM MM 2025)](https://img.shields.io/badge/InstructFLIP%20(ACM%20MM%202025)-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kunkunlin1221.github.io/InstructFLIP/)
+[![InstructFLIP (ACM MM 2025)](https://img.shields.io/badge/InstructFLIP%20(ACM%20MM%202025)-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kunkunlin1221.github.io/InstructFLIP/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falberthkyhky&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falberthkyhky)
 
 - Pursuing M.S. in Computer Science @ [National Taiwan University](https://www.inm.ntu.edu.tw/).  
