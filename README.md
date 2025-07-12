@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #Kang-Yang Huang
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:huangkangyang@cmlab.csie.ntu.edu.tw)
-[![Google Scholar]([https://img.shields.io/badge/Google%20Scholar-Profile-blue](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white))](https://scholar.google.com/citations?user=kd_B-7kAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kd_B-7kAAAAJ)
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kang-yang-huang-1a47851a4/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falberthkyhky&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falberthkyhky)
 
